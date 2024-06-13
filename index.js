@@ -20,7 +20,7 @@ function saldoRankeadas(){
         nivel = "Imortal"
     }
 
-    console.log(nivel);
+    console.log("O Herói tem saldo de " + saldoVitorias + " vitórias e está no nível " + nivel);
 }
 
 saldoRankeadas();
